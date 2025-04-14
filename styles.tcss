@@ -1,0 +1,41 @@
+.app {
+    padding-left: 2;
+}
+
+Static {
+    width: auto;
+}
+
+Vertical {
+    height: auto;
+    align: left top
+}
+
+Horizontal {
+    height: auto;
+    padding: 0 0 0 1;
+}
+
+
+.title {
+    padding: 1 0 0 1;
+    text-style: bold;
+}
+
+.small-time {
+    text-style: italic;
+    color: gray;
+}
+
+Digits {
+    width: auto;
+    text-style: bold
+}
+
+.small-seconds {
+    color: gray;
+    text-style: bold;
+    padding-left: 1;
+    height: auto;
+    padding-top: 1;
+}
