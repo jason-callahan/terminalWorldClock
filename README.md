@@ -1,9 +1,10 @@
 # terminalWorldClock
 
-terminal app using textual
-https://textual.textualize.io/
-https://github.com/Textualize/textual
+terminal app for a world clock using textual for a TUI  
+https://textual.textualize.io/  
+https://github.com/Textualize/textual  
 
-#### Dev hot reload
-hot-reload with pytest-watch: 
-ptw --runner "textual run main.py --dev"
+
+### Dev hot reload
+hot-reload with pytest-watch:  
+ptw --runner "textual run main.py --dev"  
