@@ -8,4 +8,6 @@ https://github.com/Textualize/textual
 
 ### Dev hot reload
 hot-reload with pytest-watch:  
+```bash
 ptw --runner "textual run main.py --dev"  
+```
