@@ -1,8 +1,6 @@
 """
 Terminal world clock: Local, UTC, and Serbia (12h + 24h)
 
-hot-reload with pytest-watch: 
-ptw --runner "textual run main.py --dev"
 """
 
 from datetime import datetime
